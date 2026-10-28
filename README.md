@@ -1,3 +1,4 @@
+[![Projects](https://img.shields.io/badge/VIEW-MY_PROJECTS-21262D?style=flat&logo=github&logoColor=58A6FF)](https://ryoeh.github.io)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="https://img.pixelvault.dev/playground/tmp_42t73bjjxqo2.png">
  <source media="(prefers-color-scheme: light)" srcset="https://img.pixelvault.dev/playground/tmp_42t73bjjxqo2.png">
