@@ -1,9 +1,9 @@
 [![Projects](https://img.shields.io/badge/VIEW-My_website-0D1117?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://ryoeh.github.io)
 [![Discord](https://img.shields.io/badge/VIEW-My_discord-0D1117?style=flat&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/90123456781410973920571559978)
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.pixelvault.dev/playground/tmp_42t73bjjxqo2.png">
- <source media="(prefers-color-scheme: light)" srcset="https://img.pixelvault.dev/playground/tmp_42t73bjjxqo2.png">
- <img alt="Wassup" src="https://img.pixelvault.dev/playground/tmp_42t73bjjxqo2.png">
+ <source media="(prefers-color-scheme: dark)" srcset="github-header-banner.png">
+ <source media="(prefers-color-scheme: light)" srcset="github-header-banner.png">
+ <img alt="Wassup" src="github-header-banner.png">
 </picture>
 
 ## About me
