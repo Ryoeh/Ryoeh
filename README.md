@@ -44,3 +44,11 @@ I'm not here to pretend I know everything. I'm here to learn, experiment, and be
 > If you can only do one thing, hone it to perfection.
 
 — Jigoro Kuwajima
+
+---
+
+© 2026 Ryoeh. All rights reserved.
+
+This README is subject to the Ryoeh Proprietary License v1.2. Unauthorized reproduction, modification, redistribution, or commercial use is prohibited without prior written permission.
+
+See the [Ryoeh Proprietary License](https://github.com/Ryoeh/ryoeh.github.io/blob/main/LICENSE) for details.
