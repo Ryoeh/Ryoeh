@@ -47,8 +47,12 @@ I'm not here to pretend I know everything. I'm here to learn, experiment, and be
 
 ---
 
-© 2026 Ryoeh. All rights reserved.
+## License
 
-This README is subject to the Ryoeh Proprietary License v1.2. Unauthorized reproduction, modification, redistribution, or commercial use is prohibited without prior written permission.
+This project is licensed under the **Ryoeh Proprietary License v1.2**.
 
-See the [Ryoeh Proprietary License](https://github.com/Ryoeh/ryoeh.github.io/blob/main/LICENSE) for details.
+All rights not expressly granted by the license are reserved. Viewing the source code does not grant permission to reuse, modify, reproduce, or redistribute it.
+
+For the complete license terms, see the [Ryoeh Proprietary License v1.2](https://github.com/Ryoeh/Ryoeh-License/blob/main/versions/RYOEH-PROPRIETARY-LICENSE-v1.2.txt).
+
+For permission requests, please open an [Issue](https://github.com/Ryoeh/Ryoeh-License/issues).
