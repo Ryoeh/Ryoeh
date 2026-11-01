@@ -1,4 +1,5 @@
-[![Projects](https://img.shields.io/badge/VIEW-My_website-0D1117?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://ryoeh.github.io)
+[![Projects](https://img.shields.io/badge/LICENSE-Ryoeh_Propietary_Licence_v1.2-0D1117?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Ryoeh/Ryoeh-License/blob/main/versions/RYOEH-PROPRIETARY-LICENSE-v1.2.txt)
+[![Projects](https://img.shields.io/badge/My_website-0D1117?style)](https://ryoeh.github.io/)
 [![Projects](https://img.shields.io/badge/The_project-0D1117?style)](https://github.com/Ryoeh/ryoeh.github.io)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="github-header-banner.png">
