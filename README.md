@@ -1,5 +1,5 @@
 [![Projects](https://img.shields.io/badge/VIEW-My_website-0D1117?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://ryoeh.github.io)
-[![Discord](https://img.shields.io/badge/VIEW-My_discord-0D1117?style=flat&logo=discord&logoColor=white&labelColor=0D1117)](https://discord.com/users/90123456781410973920571559978)
+[![Projects](https://img.shields.io/badge/VIEW-The_project-0D1117?style=flat&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Ryoeh/ryoeh.github.io)
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="github-header-banner.png">
  <source media="(prefers-color-scheme: light)" srcset="github-header-banner.png">
